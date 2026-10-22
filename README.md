@@ -33,4 +33,4 @@
 ---
 
 ### 🔗 Rangkaian Sosial
-[LinkedIn](https://www.linkedin.com/in/khalisah-aqilah-404315410) | [Laman Web / Portfolio](https://yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/khalisah-aqilah-404315410) | [Laman Web / Portfolio](https://github.com/khalisah-aqilah/khalisah-aqilah/blob/main/README.md)
