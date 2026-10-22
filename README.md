@@ -27,9 +27,8 @@
 ---
 
 ### 📊 Statistik GitHub
-*(Gantikan USERNAME_ANDA dengan nama penguna GitHub anda yang sebenar)*
 
-![Statistik GitHub Khalisah](https://github.com/khalisah-aqilah)
+[Statistik GitHub Khalisah](https://github.com/khalisah-aqilah)
 
 ---
 
