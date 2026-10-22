@@ -16,7 +16,7 @@
 * 💻 **Minat:** Pembangunan Web / Sains Data / Reka Bentuk UI/UX
 * 🌱 **Sedang Dipelajari:** HTML, CSS, JavaScript, dan GitHub
 * 💬 **Tanya Saya Tentang:** Markdown dan asas pengaturcaraan
-* 📫 **Hubungi Saya:** [khalisah.amin@email.com](mailto:khalisahamin07@gmail.com)
+* 📫 **Hubungi Saya:** [khalisahamin07@gmail.com](mailto:khalisahamin07@gmail.com)
 
 ---
 
